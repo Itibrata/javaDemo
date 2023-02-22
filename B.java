@@ -5,5 +5,7 @@ public class B
 	{
 		A a=new A();
 		a.display();
+		A a=new A();
+		a.display();
 	}
 }
